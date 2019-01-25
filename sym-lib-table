@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 4x5macro-rescue)(type Legacy)(uri ${KIPRJMOD}/4x5macro-rescue.lib)(options "")(descr ""))
+  (lib (name Keebio)(type Legacy)(uri https://github.com/keebio/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name Daprice)(type Legacy)(uri https://github.com/daprice/keyswitches.pretty)(options "")(descr ""))
+)
