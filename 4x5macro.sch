@@ -268,7 +268,7 @@ F 3 "~" H 5200 4800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:Rotary_Encoder SW14
+L Device:Rotary_Encoder_Switch SW14
 U 1 1 5C48F734
 P 5850 2650
 F 0 "SW14" H 6079 2696 50  0000 L CNN
@@ -301,7 +301,7 @@ F 3 "~" H 5200 3400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:Rotary_Encoder SW1
+L Device:Rotary_Encoder_Switch SW1
 U 1 1 5C48FCF1
 P 2900 2700
 F 0 "SW1" H 2845 2333 50  0000 C CNN
@@ -606,4 +606,34 @@ Wire Wire Line
 Wire Wire Line
 	2150 2000 3600 2000
 Connection ~ 2750 750 
+Wire Wire Line
+	5600 3250 6400 3250
+Wire Wire Line
+	6400 3250 6400 2550
+Wire Wire Line
+	6400 2550 6150 2550
+Wire Wire Line
+	5200 3250 5200 3050
+Wire Wire Line
+	5200 3050 6150 3050
+Wire Wire Line
+	6150 3050 6150 2750
+Connection ~ 5200 3250
+Wire Wire Line
+	4900 3250 4900 3050
+Wire Wire Line
+	4900 3050 2400 3050
+Wire Wire Line
+	2400 3050 2400 2800
+Wire Wire Line
+	2400 2800 2600 2800
+Wire Wire Line
+	4500 3250 4500 3100
+Wire Wire Line
+	4500 3100 2300 3100
+Wire Wire Line
+	2300 3100 2300 2600
+Wire Wire Line
+	2300 2600 2600 2600
+Connection ~ 4500 3250
 $EndSCHEMATC
