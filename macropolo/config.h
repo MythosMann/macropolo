@@ -50,9 +50,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /*Encoder options*/
 #define NUMBER_OF_ENCODERS 2
-#define ENCODERS_PAD_A { F4, B6 }
-#define ENCODERS_PAD_B { F5, B2 }
-#define ENCODER_RESOLUTION 4
+#define ENCODERS_PAD_A { F5, B6 }
+#define ENCODERS_PAD_B { F4, B2 }
+#define ENCODER_RESOLUTION 2
+#define TAP_CODE_DELAY 50
 
 /*
  * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
