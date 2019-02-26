@@ -52,7 +52,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define NUMBER_OF_ENCODERS 2
 #define ENCODERS_PAD_A { F5, B6 }
 #define ENCODERS_PAD_B { F4, B2 }
-#define ENCODER_RESOLUTION 2
+#define ENCODER_RESOLUTION 4
 #define TAP_CODE_DELAY 50
 
 /*
