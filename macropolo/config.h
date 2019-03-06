@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
 Copyright 2019 REPLACE_WITH_YOUR_NAME
+=======
+Copyright 2019 u/mythosmann
+>>>>>>> low_profile
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -41,13 +45,30 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
 */
+<<<<<<< HEAD
 #define MATRIX_ROW_PINS { D0, D5 }
 #define MATRIX_COL_PINS { F1, F0, B0 }
+=======
+#define MATRIX_ROW_PINS { D4, B4, B5 }
+#define MATRIX_COL_PINS { B3, B1, F7, F6 }
+>>>>>>> low_profile
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL, or CUSTOM_MATRIX */
 #define DIODE_DIRECTION COL2ROW
 
+<<<<<<< HEAD
+=======
+/*Encoder options*/
+#define NUMBER_OF_ENCODERS 2
+#define ENCODERS_PAD_A { F5, B6 }
+//F5, B6
+#define ENCODERS_PAD_B { F4, B2 }
+//F4, B2
+#define ENCODER_RESOLUTION 4
+#define TAP_CODE_DELAY 50
+
+>>>>>>> low_profile
 /*
  * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
  */
@@ -57,6 +78,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define BACKLIGHT_BREATHING
 // #define BACKLIGHT_LEVELS 3
 
+<<<<<<< HEAD
 // #define RGB_DI_PIN E2
 // #ifdef RGB_DI_PIN
 //   #define RGBLED_NUM 16
@@ -67,6 +89,18 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //   #define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 // /*== all animations enable ==*/
 //   #define RGBLIGHT_ANIMATIONS
+=======
+#define RGB_DI_PIN D1
+#ifdef RGB_DI_PIN
+  #define RGBLED_NUM 7
+  #define RGBLIGHT_HUE_STEP 5
+  #define RGBLIGHT_SAT_STEP 5
+  #define RGBLIGHT_VAL_STEP 5
+  #define RGBLIGHT_LIMIT_VAL 255 /* The maximum brightness level */
+  #define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
+/*== all animations enable ==*/
+//  #define RGBLIGHT_ANIMATIONS
+>>>>>>> low_profile
 // /*== or choose animations ==*/
 //   #define RGBLIGHT_EFFECT_BREATHING
 //   #define RGBLIGHT_EFFECT_RAINBOW_MOOD
@@ -77,7 +111,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //   #define RGBLIGHT_EFFECT_STATIC_GRADIENT
 //   #define RGBLIGHT_EFFECT_RGB_TEST
 //   #define RGBLIGHT_EFFECT_ALTERNATING
+<<<<<<< HEAD
 // #endif
+=======
+#endif
+
+#define AUDIO_C6
+>>>>>>> low_profile
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCING_DELAY 5
