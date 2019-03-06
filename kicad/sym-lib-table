@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name 4x5macro-rescue)(type Legacy)(uri ${KIPRJMOD}/4x5macro-rescue.lib)(options "")(descr ""))
+  (lib (name aio3-usb)(type Legacy)(uri Q:/Downloads/Type-C.pretty)(options "")(descr ""))
 )
