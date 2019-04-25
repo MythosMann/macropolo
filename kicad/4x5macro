@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>Q:\Documents\4x5macro\macropolo\kicad\4x5macro.sch</h1>
+    <p>4/23/2019 4:52:25 PM</p>
+    <p>Eeschema (5.0.2)-1</p>
+    <p><b>Component Count:</b>45</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>C1</td><td>1</td><td>1uF</td><td>Device:C</td><td></td><td>Unpolarized capacitor</td><td></td></tr><tr><td>C2, C3</td><td>2</td><td>22pf</td><td>Device:C</td><td></td><td>Unpolarized capacitor</td><td></td></tr><tr><td>D1, D2, D3, D4, D5, D6, D7</td><td>7</td><td>WS2812B</td><td>LED:WS2812B</td><td>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</td><td>RGB LED with integrated controller</td><td></td></tr><tr><td>D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19</td><td>12</td><td>D</td><td>OPL_Discrete_Semiconductor:SMD-DIODE-SWITCH-1N4148_LL-34_</td><td>~</td><td></td><td></td></tr><tr><td>J1</td><td>1</td><td>Conn_01x06_Female</td><td>Connector:Conn_01x07_Female</td><td>~</td><td>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>J2</td><td>1</td><td>USB_C_Receptacle_USB2.0</td><td>Connector:USB_C_Receptacle_USB2.0</td><td>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</td><td>USB 2.0-only Type-C Receptacle connector</td><td></td></tr><tr><td>R1</td><td>1</td><td>SMD-RES-10K-5%-1_10W_0603_</td><td>OPL_Resistor:SMD-RES-10K-5%-1_10W_0603_</td><td></td><td></td><td></td></tr><tr><td>SPKR1</td><td>1</td><td>Conn_01x02_Female</td><td>Connector:Conn_01x02_Female</td><td>~</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr><tr><td>SW1</td><td>1</td><td>SW_Push</td><td>Switch:SW_Push</td><td></td><td>Push button switch, generic, two pins</td><td></td></tr><tr><td>SW2, SW3, SW4, SW5</td><td>4</td><td>Rotary_Encoder</td><td>Device:Rotary_Encoder_Switch</td><td>~</td><td>Rotary encoder, dual channel, incremental quadrate outputs, with switch</td><td></td></tr><tr><td>SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17</td><td>12</td><td>SW_Push</td><td>Switch:SW_Push</td><td></td><td>Push button switch, generic, two pins</td><td></td></tr><tr><td>U1</td><td>1</td><td>ATmega32U4-MU</td><td>MCU_Microchip_ATmega:ATmega32U4-MU</td><td>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</td><td>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44</td><td></td></tr><tr><td>Y1</td><td>1</td><td>SMD-CRYSTAL-16MHZ-8PF-20PPM-40R_2P-5.0X3.2MM_</td><td>OPL_Crystal_Oscillator:SMD-CRYSTAL-16MHZ-8PF-20PPM-40R_2P-5.0X3.2MM_</td><td></td><td></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

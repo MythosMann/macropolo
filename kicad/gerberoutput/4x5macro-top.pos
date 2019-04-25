@@ -1,0 +1,32 @@
+### Module positions - created on 4/24/2019 12:15:29 AM ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                            Package                                   PosX       PosY       Rot  Side
+C1        1uF                                            C_0603_1608Metric                     195.7705   -46.0121   90.0000  top
+C2        22pf                                           C_0603_1608Metric                     192.6463   -46.0121  270.0000  top
+C3        22pf                                           C_0603_1608Metric                     194.2084   -46.0121  270.0000  top
+D1        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    251.1171   -51.4858    0.0000  top
+D2        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    242.4811   -51.5493    0.0000  top
+D3        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    173.8122   -58.7502    0.0000  top
+D4        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    173.8122   -66.7258    0.0000  top
+D5        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    173.8249   -75.3872    0.0000  top
+D6        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    173.8249   -84.0232    0.0000  top
+D7        WS2812B                                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm    173.8249   -92.9132    0.0000  top
+D8        D                                              SOD-123                               196.7865   -60.3885  270.0000  top
+D9        D                                              SOD-123                               198.5645   -60.3885  270.0000  top
+D10       D                                              SOD-123                               234.7595   -60.3250  270.0000  top
+D11       D                                              SOD-123                               236.7915   -60.3250  270.0000  top
+D12       D                                              SOD-123                               186.4995   -75.0570    0.0000  top
+D13       D                                              SOD-123                               205.5495   -75.0570    0.0000  top
+D14       D                                              SOD-123                               224.5995   -74.9935    0.0000  top
+D15       D                                              SOD-123                               243.6495   -74.9935    0.0000  top
+D16       D                                              SOD-123                               186.4995   -94.1070    0.0000  top
+D17       D                                              SOD-123                               205.5495   -94.1070    0.0000  top
+D18       D                                              SOD-123                               224.5360   -94.0435    0.0000  top
+D19       D                                              SOD-123                               243.6495   -94.0435    0.0000  top
+R1        SMD-RES-10K-5%-1_10W_0603_                     R0603                                 195.2879   -53.8734   90.0000  top
+R2        10K                                            R0603                                 193.4210   -43.0784    0.0000  top
+U1        ATmega32U4-MU                                  QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm   203.2762   -48.5140    0.0000  top
+Y1        SMD-CRYSTAL-16MHZ-8PF-20PPM-40R_2P-5.0X3.2MM_  X2-SMD-5.0X3.2X1.3MM                  194.0560   -49.4284    0.0000  top
+## End

@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name Keebio)(type Github)(uri https://github.com/keebio/Keebio-Parts.pretty)(options "")(descr "")(disabled))
-  (lib (name 4x5macro)(type KiCad)(uri Q:/Documents/4x5macro/4x5macro)(options "")(descr "")(disabled))
-  (lib (name Sockets)(type KiCad)(uri C:/Users/isaac/Documents/GitHub/macropolo/kicad-lib.pretty)(options "")(descr ""))
-)
