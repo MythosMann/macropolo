@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D6,D1,D2,D3,D4,D5,D7";"LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm";7;"WS2812B";;;
+2;"SW17,SW16,SW15,SW14,SW13,SW12,SW11,SW10,SW9,SW7,SW6,SW8";"MX-Choc";12;"SW_Push";;;
+3;"REF**,REF**,REF**,REF**,REF**,REF**";"MountingHole_2.2mm_M2";6;"MountingHole_2.2mm_M2";;;
+4;"D14,D19,D18,D17,D16,D15,D13,D12,D11,D10,D9,D8";"SOD-123";12;"D";;;
+5;"SPKR1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Female";;;
+6;"SW1";"SW_PUSH_6mm";1;"SW_Push";;;
+7;"SW2,SW3,SW4,SW5";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";4;"Rotary_Encoder";;;
+8;"R1";"R0603";1;"SMD-RES-10K-5%-1_10W_0603_";;;
+9;"U1";"QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm";1;"ATmega32U4-MU";;;
+10;"C1";"C_0603_1608Metric";1;"1uF";;;
+11;"C2,C3";"C_0603_1608Metric";2;"22pf";;;
+12;"REF**";"OSHW-Symbol_6.7x6mm_SilkScreen";1;"OSHW-Symbol_6.7x6mm_SilkScreen";;;
+13;"J1";"PinSocket_1x07_P2.54mm_Vertical";1;"Conn_01x06_Female";;;
+14;"USB1";"USB-C-12-Pin-MidMount";1;"HRO-TYPE-C-31-M-12";;;
+15;"Y1";"X2-SMD-5.0X3.2X1.3MM";1;"SMD-CRYSTAL-16MHZ-8PF-20PPM-40R_2P-5.0X3.2MM_";;;
+16;"R2";"R0603";1;"10K";;;
+17;"G***";"LOGO-small";1;"LOGO-small";;;
