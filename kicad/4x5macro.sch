@@ -312,96 +312,96 @@ Wire Wire Line
 $Comp
 L LED:WS2812B D1
 U 1 1 5C4B635D
-P 1050 6500
-F 0 "D1" H 1391 6546 50  0000 L CNN
-F 1 "WS2812B" H 1391 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1100 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1150 6125 50  0001 L TNN
-	1    1050 6500
+P 1250 6500
+F 0 "D1" H 1591 6546 50  0000 L CNN
+F 1 "WS2812B" H 1591 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1300 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1350 6125 50  0001 L TNN
+	1    1250 6500
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D2
 U 1 1 5C4B675F
-P 1650 6500
-F 0 "D2" H 1991 6546 50  0000 L CNN
-F 1 "WS2812B" H 1991 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1700 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1750 6125 50  0001 L TNN
-	1    1650 6500
+P 1850 6500
+F 0 "D2" H 2191 6546 50  0000 L CNN
+F 1 "WS2812B" H 2191 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1900 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1950 6125 50  0001 L TNN
+	1    1850 6500
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D3
 U 1 1 5C4B67B9
-P 2250 6500
-F 0 "D3" H 2591 6546 50  0000 L CNN
-F 1 "WS2812B" H 2591 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2300 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2350 6125 50  0001 L TNN
-	1    2250 6500
+P 2450 6500
+F 0 "D3" H 2791 6546 50  0000 L CNN
+F 1 "WS2812B" H 2791 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2500 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2550 6125 50  0001 L TNN
+	1    2450 6500
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D4
 U 1 1 5C4B6819
-P 2850 6500
-F 0 "D4" H 3191 6546 50  0000 L CNN
-F 1 "WS2812B" H 3191 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2900 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2950 6125 50  0001 L TNN
-	1    2850 6500
+P 3050 6500
+F 0 "D4" H 3391 6546 50  0000 L CNN
+F 1 "WS2812B" H 3391 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3100 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3150 6125 50  0001 L TNN
+	1    3050 6500
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D5
 U 1 1 5C4B6952
-P 3450 6500
-F 0 "D5" H 3791 6546 50  0000 L CNN
-F 1 "WS2812B" H 3791 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3500 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3550 6125 50  0001 L TNN
-	1    3450 6500
+P 3650 6500
+F 0 "D5" H 3991 6546 50  0000 L CNN
+F 1 "WS2812B" H 3991 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3700 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3750 6125 50  0001 L TNN
+	1    3650 6500
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D6
 U 1 1 5C4B6AC4
-P 4050 6500
-F 0 "D6" H 4391 6546 50  0000 L CNN
-F 1 "WS2812B" H 4391 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4100 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4150 6125 50  0001 L TNN
-	1    4050 6500
+P 4250 6500
+F 0 "D6" H 4591 6546 50  0000 L CNN
+F 1 "WS2812B" H 4591 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4300 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4350 6125 50  0001 L TNN
+	1    4250 6500
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D7
 U 1 1 5C4B6B26
-P 4650 6500
-F 0 "D7" H 4991 6546 50  0000 L CNN
-F 1 "WS2812B" H 4991 6455 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4700 6200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4750 6125 50  0001 L TNN
-	1    4650 6500
+P 4850 6500
+F 0 "D7" H 5191 6546 50  0000 L CNN
+F 1 "WS2812B" H 5191 6455 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4900 6200 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4950 6125 50  0001 L TNN
+	1    4850 6500
 	1    0    0    -1  
 $EndComp
-Connection ~ 1650 6800
+Connection ~ 1850 6800
 Wire Wire Line
-	1650 6800 2250 6800
+	1850 6800 2450 6800
 Wire Wire Line
-	3450 6800 4050 6800
-Connection ~ 4050 6800
+	3650 6800 4250 6800
+Connection ~ 4250 6800
 Wire Wire Line
-	4050 6800 4650 6800
-Connection ~ 1650 6200
+	4250 6800 4850 6800
+Connection ~ 1850 6200
 Wire Wire Line
-	1650 6200 2250 6200
+	1850 6200 2450 6200
 Wire Wire Line
-	3450 6200 4050 6200
-Connection ~ 4050 6200
+	3650 6200 4250 6200
+Connection ~ 4250 6200
 Wire Wire Line
-	4050 6200 4650 6200
+	4250 6200 4850 6200
 $Comp
 L Device:Rotary_Encoder_Switch SW3
 U 1 1 5C48FCF1
@@ -480,13 +480,13 @@ F 3 "~" H 2000 4400 50  0001 C CNN
 	1    2000 4400
 	-1   0    0    1   
 $EndComp
-Text GLabel 6150 2950 2    50   Output ~ 0
+Text GLabel 6700 2950 2    50   Input ~ 0
 D-
 Text GLabel 9400 2950 0    50   Input ~ 0
 D-
 Text GLabel 9400 3550 0    50   Input ~ 0
-GND
-Text GLabel 6150 3050 2    50   Output ~ 0
+UGND
+Text GLabel 6700 3050 2    50   Input ~ 0
 D+
 Text GLabel 9400 2850 0    50   Input ~ 0
 D+
@@ -495,10 +495,10 @@ RST
 Text GLabel 3750 4200 1    50   Input ~ 0
 RST
 Wire Wire Line
-	1050 6800 1650 6800
+	1250 6800 1850 6800
 Text GLabel 1200 4700 2    50   Input ~ 0
 GND
-Text GLabel 1050 6800 0    50   Input ~ 0
+Text GLabel 1250 6800 0    50   Input ~ 0
 GND
 Text GLabel 5550 750  1    50   Output ~ 0
 GND
@@ -520,10 +520,10 @@ Text GLabel 6150 3250 2    50   Output ~ 0
 VBUS
 Text GLabel 9400 2550 0    50   Input ~ 0
 VBUS
-Text GLabel 1050 6200 0    50   Input ~ 0
+Text GLabel 1250 6200 0    50   Input ~ 0
 VCC
 Wire Wire Line
-	1050 6200 1650 6200
+	1250 6200 1850 6200
 Text GLabel 1200 4600 2    50   Input ~ 0
 VCC
 Text GLabel 1200 4100 2    50   Input ~ 0
@@ -636,7 +636,7 @@ Text GLabel 4950 4050 0    50   Output ~ 0
 B0
 Text GLabel 4950 3350 0    50   Output ~ 0
 B7
-Text GLabel 750  6500 0    50   Input ~ 0
+Text GLabel 650  6500 0    50   Input ~ 0
 B0
 Text Notes 7400 7500 0    50   ~ 0
 macro polo
@@ -669,19 +669,19 @@ AVCC
 Text GLabel 5650 750  1    50   Output ~ 0
 UGND
 Wire Wire Line
-	2250 6800 2850 6800
-Connection ~ 2250 6800
-Connection ~ 3450 6800
+	2450 6800 3050 6800
+Connection ~ 2450 6800
+Connection ~ 3650 6800
 Wire Wire Line
-	3450 6200 2850 6200
-Connection ~ 3450 6200
-Connection ~ 2250 6200
-Connection ~ 2850 6200
+	3650 6200 3050 6200
+Connection ~ 3650 6200
+Connection ~ 2450 6200
+Connection ~ 3050 6200
 Wire Wire Line
-	2850 6200 2250 6200
-Connection ~ 2850 6800
+	3050 6200 2450 6200
+Connection ~ 3050 6800
 Wire Wire Line
-	2850 6800 3450 6800
+	3050 6800 3650 6800
 Text GLabel 1400 5150 2    60   Input ~ 0
 XTAL1
 Text GLabel 1400 5450 2    60   Input ~ 0
@@ -700,23 +700,23 @@ $EndComp
 $Comp
 L Device:C C1
 U 1 1 5CC4CB8D
-P 6300 2750
-F 0 "C1" H 6310 2820 50  0000 L CNN
-F 1 "1uF" H 6310 2670 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 6300 2750 50  0001 C CNN
-F 3 "" H 6300 2750 50  0001 C CNN
-	1    6300 2750
+P 6350 2600
+F 0 "C1" H 6360 2670 50  0000 L CNN
+F 1 "1uF" H 6360 2520 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6350 2600 50  0001 C CNN
+F 3 "" H 6350 2600 50  0001 C CNN
+	1    6350 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR01
 U 1 1 5CC4CB94
-P 6450 2750
-F 0 "#PWR01" H 6450 2500 50  0001 C CNN
-F 1 "GND" H 6450 2600 50  0000 C CNN
-F 2 "" H 6450 2750 50  0001 C CNN
-F 3 "" H 6450 2750 50  0001 C CNN
-	1    6450 2750
+P 6500 2600
+F 0 "#PWR01" H 6500 2350 50  0001 C CNN
+F 1 "GND" H 6500 2450 50  0000 C CNN
+F 2 "" H 6500 2600 50  0001 C CNN
+F 3 "" H 6500 2600 50  0001 C CNN
+	1    6500 2600
 	0    -1   -1   0   
 $EndComp
 Wire Notes Line
@@ -893,7 +893,7 @@ $EndComp
 Text GLabel 9400 3450 0    50   Input ~ 0
 VBUS
 Text GLabel 9400 2450 0    50   Input ~ 0
-GND
+UGND
 $Comp
 L Device:R R2
 U 1 1 5CBFD696
@@ -907,4 +907,45 @@ F 3 "~" H 9250 2350 50  0001 C CNN
 $EndComp
 Text GLabel 9100 2350 0    50   Input ~ 0
 GND
+$Comp
+L Device:R R?
+U 1 1 5CD08E8F
+P 6550 3050
+F 0 "R?" V 6343 3050 50  0000 C CNN
+F 1 "22" V 6434 3050 50  0000 C CNN
+F 2 "" V 6480 3050 50  0001 C CNN
+F 3 "~" H 6550 3050 50  0001 C CNN
+	1    6550 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5CD0A8C7
+P 6300 2950
+F 0 "R?" V 6093 2950 50  0000 C CNN
+F 1 "22" V 6184 2950 50  0000 C CNN
+F 2 "" V 6230 2950 50  0001 C CNN
+F 3 "~" H 6300 2950 50  0001 C CNN
+	1    6300 2950
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6150 3050 6400 3050
+Wire Wire Line
+	6450 2950 6700 2950
+Wire Wire Line
+	6150 2750 6150 2600
+Wire Wire Line
+	6150 2600 6200 2600
+$Comp
+L Device:R R?
+U 1 1 5CD10A7A
+P 800 6500
+F 0 "R?" V 593 6500 50  0000 C CNN
+F 1 "470" V 684 6500 50  0000 C CNN
+F 2 "" V 730 6500 50  0001 C CNN
+F 3 "~" H 800 6500 50  0001 C CNN
+	1    800  6500
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
